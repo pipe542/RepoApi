@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\custom\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\apicrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\apicrudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\conferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\conferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\dtos\\conferenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\dtos\\conferenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\controllers\\ponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\controllers\\ponentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\ciudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\ciudades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\controllers\\conferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\controllers\\conferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\dtos\\ponentesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\dtos\\ponentesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\ponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\ponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|c:\\users\\pipeg\\source\\repos\\webapi1\\webapi1\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B589A64-8E09-4DBC-8A3C-2C24A8B91AC0}|WebApi1\\WebApi1.csproj|solutionrelative:webapi1\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "WebApi1\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:46:00.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConferenciaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\DTOs\\ConferenciaDTO.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\DTOs\\ConferenciaDTO.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\DTOs\\ConferenciaDTO.cs",
+              "RelativeToolTip": "WebApi1\\Models\\DTOs\\ConferenciaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:39:41.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conferencia.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Conferencia.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\Conferencia.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Conferencia.cs",
+              "RelativeToolTip": "WebApi1\\Models\\Conferencia.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:02:57.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiCrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\ApiCrudContext.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\ApiCrudContext.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\ApiCrudContext.cs",
+              "RelativeToolTip": "WebApi1\\Models\\ApiCrudContext.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:35:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Program.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Program.cs",
+              "RelativeToolTip": "WebApi1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:37:05.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Custom\\Utilidades.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Custom\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Custom\\Utilidades.cs",
+              "RelativeToolTip": "WebApi1\\Custom\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:46:40.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PonentesController.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\PonentesController.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Controllers\\PonentesController.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\PonentesController.cs",
+              "RelativeToolTip": "WebApi1\\Controllers\\PonentesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADIAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:15:18.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ciudades.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Ciudades.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\Ciudades.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Ciudades.cs",
+              "RelativeToolTip": "WebApi1\\Models\\Ciudades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:14:26.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamentos.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Departamentos.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\Departamentos.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Departamentos.cs",
+              "RelativeToolTip": "WebApi1\\Models\\Departamentos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:14:38.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi1\\appsettings.json",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\appsettings.json",
+              "RelativeToolTip": "WebApi1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T04:36:27.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:24:21.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConferenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\ConferenciaController.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Controllers\\ConferenciaController.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Controllers\\ConferenciaController.cs",
+              "RelativeToolTip": "WebApi1\\Controllers\\ConferenciaController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:47:59.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PonentesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\DTOs\\PonentesDTO.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\DTOs\\PonentesDTO.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\DTOs\\PonentesDTO.cs",
+              "RelativeToolTip": "WebApi1\\Models\\DTOs\\PonentesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:17:07.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ponentes.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Ponentes.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\Ponentes.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\Ponentes.cs",
+              "RelativeToolTip": "WebApi1\\Models\\Ponentes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T07:17:15.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "WebApi1\\Models\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\pipeg\\source\\repos\\WebApi1\\WebApi1\\Models\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "WebApi1\\Models\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T04:44:54.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
